@@ -40,10 +40,10 @@ Un resumen de quién eres como profesional, destacando tus principales habilidad
   - [Agregar foto.]
 
 ## Habilidades
-- **Habilidades Técnicas**: [Lista de habilidades técnicas] Son las habilidades específicas y técnicas que has adquirido, generalmente relacionadas con tu área de estudio o trabajo. Estas pueden incluir conocimientos en lenguajes de programación, uso de software específico, manejo de herramientas técnicas, etc.
+- **Habilidades Técnicas**:
   - Python, C, Assembler.
   - Control de versiones (Git).
-- **Habilidades Blandas**: [Lista de habilidades blandas] Son las habilidades interpersonales y de comportamiento que te ayudan a trabajar bien con otros y a tener éxito en un entorno laboral. Estas incluyen cómo te comunicas, cómo manejas tu tiempo, cómo trabajas en equipo, etc.
+- **Habilidades Blandas**:
   - Resolución de problemas: Habilidad para identificar, analizar y resolver problemas de manera eficiente.
   - Seguimiento de instrucciones: Capacidad para interpretar y llevar a cabo órdenes específicas con precisión si las ordenes dadas son claras.
   - Actitud de aprendizaje continuo: Iniciativa en la búsqueda de oportunidades de aprendizaje y desarrollo personal, tanto de manera formal como autodidacta.
