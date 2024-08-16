@@ -11,7 +11,7 @@
 
 ## Objetivos/Sobre mí
 
-Soy Brian Milowski, estudiante de segundo año de la Tecnicatura en Programación Informática en la UNSAM. Busco aprender de forma contínua.  
+Soy Brian Milowski, estudiante de segundo año de la Tecnicatura en Programación Informática en la UNSAM. Busco aprender de forma continua.  
 En este momento estoy en la búsqueda de un empleo donde pueda aportar y desarrollar mis habilidades y conocimientos, (preferiblemente) con horarios flexibles que me permitan continuar con mis estudios.
 
 ## Estudios
@@ -26,16 +26,16 @@ En este momento estoy en la búsqueda de un empleo donde pueda aportar y desarro
   - ***Control de versiones (Git).***
 - **Habilidades Blandas**:
   - ***Resolución de problemas:*** Habilidad para identificar, analizar y resolver problemas de manera eficiente.
-  - ***Seguimiento de instrucciones:*** Capacidad para interpretar y llevar a cabo órdenes específicas con precisión si las ordenes dadas son claras.
+  - ***Seguimiento de instrucciones:*** Capacidad para interpretar y llevar a cabo órdenes específicas con precisión si las órdenes dadas son claras.
   - ***Actitud de aprendizaje continuo:*** Iniciativa en la búsqueda de oportunidades de aprendizaje y desarrollo personal, tanto de manera formal como autodidacta.
 
 ## Proyectos Realizados
 
-- **App Andriod**
+- **App Android**
   - Se realizó un Videojuego para Andriod con Python utilizando el framework Kivy. La aplicación cuenta con el guardado del puntaje.
   - [Agregar foto.]
 
-- **App Quiz - Andriod**
+- **App Quiz - Android**
   - Se diseñó una aplicación de trivia para Andriod con Python utilizando el framework Kivy. La aplicación cuenta con el guardado del puntaje, la lectura de archivos csv para preguntas y respuestas, y una bonita interfaz que escala dependiendo del dispositivo.
   - [Agregar foto.]
 
@@ -44,7 +44,7 @@ En este momento estoy en la búsqueda de un empleo donde pueda aportar y desarro
   - [Agregar foto.]
 
 - **Sistema embebido en Arduino Uno.**
-  - Se elaboró un sistema embebido utilizando displays, botones, potenciometros, etc.
+  - Se elaboró un sistema embebido utilizando displays, botones, potenciómetros, etc.
   - [Agregar foto.]
 
 - **TicTacToe Assembly**
