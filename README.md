@@ -2,7 +2,7 @@
 
 ## Información
 - **Nombre completo**: Brian Milowski
-- **Dirección**: San Martín, Buenos Aires, Argentina
+- **Ubicación**: San Martín, Buenos Aires, Argentina
 - **Teléfono**: [Tu Teléfono]
 - **Correo electrónico**: brianmilowski05@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/brian-milowski)
