@@ -36,8 +36,8 @@ En este momento estoy en la búsqueda de un empleo donde pueda aportar y desarro
 ![ScreenShot-01](/assets/img/ss0.png)
 
 - **App Quiz - Android**
-  - Se diseñó una aplicación de trivia para Andriod con Python utilizando el framework Kivy. La aplicación cuenta con el guardado del puntaje, la lectura de archivos csv para preguntas y respuestas, y una bonita interfaz que escala dependiendo del dispositivo.
-  - ![ScreenShot-04](/assets/img/ss1.png) ![ScreenShot-05](/assets/img/ss2.png) ![ScreenShot-06](/assets/img/ss3.png)
+  - Se diseñó una aplicación de trivia para Andriod con Python utilizando el framework Kivy. La aplicación cuenta con el guardado del puntaje, la lectura de archivos csv para preguntas y respuestas, y una bonita interfaz que escala dependiendo del dispositivo.  
+![ScreenShot-04](/assets/img/ss1.png) ![ScreenShot-05](/assets/img/ss2.png) ![ScreenShot-06](/assets/img/ss3.png)
 
 - **Programa de consola en C.**
   - Programa que permitía la lectura y escritura de archivos (csv y binarios) usando el lenguaje C.
