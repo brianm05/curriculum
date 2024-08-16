@@ -32,8 +32,8 @@ En este momento estoy en la búsqueda de un empleo donde pueda aportar y desarro
 ## Proyectos Realizados
 
 - **App Android**
-  - Se realizó un Videojuego para Andriod con Python utilizando el framework Kivy. La aplicación cuenta con el guardado del puntaje.
-  - ![ScreenShot-01](/assets/img/ss0.png)
+  - Se realizó un Videojuego para Andriod con Python utilizando el framework Kivy. La aplicación cuenta con el guardado del puntaje.  
+![ScreenShot-01](/assets/img/ss4.png) ![ScreenShot-02](/assets/img/ss5.png) ![ScreenShot-03](/assets/img/ss6.png)
 
 - **App Quiz - Android**
   - Se diseñó una aplicación de trivia para Andriod con Python utilizando el framework Kivy. La aplicación cuenta con el guardado del puntaje, la lectura de archivos csv para preguntas y respuestas, y una bonita interfaz que escala dependiendo del dispositivo.
