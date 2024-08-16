@@ -1,21 +1,32 @@
 # CV
 
 ## Información
+
 - **Nombre completo**: Brian Milowski
 - **Ubicación**: San Martín, Buenos Aires, Argentina
-- **Teléfono**: [Tu Teléfono]
+- **Teléfono**: -
 - **Correo electrónico**: brianmilowski05@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/brian-milowski)
 - [GitHub](https://github.com/brianm05)
 
-## Objetivos
-Breve párrafo describiendo tus metas profesionales y lo que esperas lograr en tu carrera.
+## Objetivos/Sobre mí
 
-## Sobre mí
-Un resumen de quién eres como profesional, destacando tus principales habilidades, conocimientos adquiridos durante tus estudios, y cualquier otro aspecto que te haga destacar.
+Soy Brian Milowski, estudiante de segundo año de la Tecnicatura en Programación Informática en la UNSAM. Soy una persona que busca aprender de forma contínua.  
+En este momento estoy en la búsqueda de un empleo donde pueda aportar y desarrollar mis habilidades y conocimientos, (preferiblemente) con horarios flexibles que me permitan continuar con mis estudios.
 
 ## Estudios
+
 **Tecnicatura en Programación Informática** - Universidad de San Martín, 2023 - Presente
+
+## Habilidades
+
+- **Habilidades Técnicas**:
+  - Python, C, Assembler.
+  - Control de versiones (Git).
+- **Habilidades Blandas**:
+  - Resolución de problemas: Habilidad para identificar, analizar y resolver problemas de manera eficiente.
+  - Seguimiento de instrucciones: Capacidad para interpretar y llevar a cabo órdenes específicas con precisión si las ordenes dadas son claras.
+  - Actitud de aprendizaje continuo: Iniciativa en la búsqueda de oportunidades de aprendizaje y desarrollo personal, tanto de manera formal como autodidacta.
 
 ## Proyectos Realizados
 
@@ -39,15 +50,7 @@ Un resumen de quién eres como profesional, destacando tus principales habilidad
   - Se creó un programa utilizando el lenguaje de Assembler. Cuenta con la generación de elecciones pseudo-aleatorias. Fue parte de un proyecto universitario.
   - [Agregar foto.]
 
-## Habilidades
-- **Habilidades Técnicas**:
-  - Python, C, Assembler.
-  - Control de versiones (Git).
-- **Habilidades Blandas**:
-  - Resolución de problemas: Habilidad para identificar, analizar y resolver problemas de manera eficiente.
-  - Seguimiento de instrucciones: Capacidad para interpretar y llevar a cabo órdenes específicas con precisión si las ordenes dadas son claras.
-  - Actitud de aprendizaje continuo: Iniciativa en la búsqueda de oportunidades de aprendizaje y desarrollo personal, tanto de manera formal como autodidacta.
-
 ## Idiomas
+
 - Español: Nativo
 - Inglés: Básico
