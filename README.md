@@ -33,11 +33,15 @@ En este momento estoy en la búsqueda de un empleo donde pueda aportar y desarro
 
 - **App Android**
   - Se realizó un Videojuego para Andriod con Python utilizando el framework Kivy. La aplicación cuenta con el guardado del puntaje.
-  - [Agregar foto.]
+  - ![ScreenShot-01](/assets/img/ss4.png)
+  - ![ScreenShot-02](/assets/img/ss5.png)
+  - ![ScreenShot-03](/assets/img/ss6.png)
 
 - **App Quiz - Android**
   - Se diseñó una aplicación de trivia para Andriod con Python utilizando el framework Kivy. La aplicación cuenta con el guardado del puntaje, la lectura de archivos csv para preguntas y respuestas, y una bonita interfaz que escala dependiendo del dispositivo.
-  - [Agregar foto.]
+  - ![ScreenShot-04](/assets/img/ss1.png)
+  - ![ScreenShot-05](/assets/img/ss2.png)
+  - ![ScreenShot-06](/assets/img/ss3.png)
 
 - **Programa de consola en C.**
   - Programa que permitía la lectura y escritura de archivos (csv y binarios) usando el lenguaje C.
